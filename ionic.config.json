@@ -1,0 +1,8 @@
+{
+  "name": "curso",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "09d00da2"
+}
